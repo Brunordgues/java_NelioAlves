@@ -1,4 +1,4 @@
-package saida_de_dados;
+package saida_de_dados.teorica;
 
 import java.util.Locale;
 
