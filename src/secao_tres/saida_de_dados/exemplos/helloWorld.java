@@ -1,4 +1,4 @@
-package secao_tres.saida_de_dados.teorica;
+package secao_tres.saida_de_dados.exemplos;
 
 import java.util.Locale;
 
