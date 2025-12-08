@@ -13,6 +13,7 @@ public class atv_2 {
         double a = sc.nextDouble();
         double b = sc.nextDouble();
         double c = sc.nextDouble();
+
         double delta = b * b - 4.0 * a * c;
         if (a == 0 || delta < 0.0) {
             System.out.println("Impossivel calcular");
