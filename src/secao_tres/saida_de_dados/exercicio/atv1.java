@@ -1,4 +1,4 @@
-package saida_de_dados.exercicio;
+package secao_tres.saida_de_dados.exercicio;
 
 import java.util.Locale;
 
